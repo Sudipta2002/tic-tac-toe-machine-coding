@@ -9,4 +9,5 @@
     border-radius: 10%;
     background-color: var(--yellow);
     flex-basis: 20%;
+    cursor: pointer;
 }
